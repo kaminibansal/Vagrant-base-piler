@@ -1,2 +1,2 @@
 # Vagrant-base-piler
-Vagrant Configuration for MailPiler
+Vagrant for MailPiler
